@@ -16,7 +16,8 @@ As shown in figures that we significantly enhanced the effect of human body gene
 
 
 ## My job in our project:
-I compare our face reotore algorithm aginst codeformer [1] 
+I am responsible for face restoration.
+As the image shown, compare with the face restoration algorithm proposed by others [1], our algorithms can achieve better restoration results. 
 ![image](https://github.com/wenyihan4396/Generation-model-for-text2imag/blob/main/my_face_restore.png)
 
 [1] https://shangchenzhou.com/projects/CodeFormer/
