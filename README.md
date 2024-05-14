@@ -1,4 +1,4 @@
-# Generation-model-for-text2imag
+# Rebuttal
 
  Due to a confidentiality agreement, I can only disclose the following information.
  
